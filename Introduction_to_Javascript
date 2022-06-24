@@ -1,5 +1,0 @@
-let myName='Saviour Eyo', height='171cm', country='Nigeria';
-
-console.log(myName);
-console.log(height);
-console.log(country);
